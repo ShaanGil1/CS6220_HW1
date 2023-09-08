@@ -144,18 +144,16 @@ E) Observations:
 ![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/feff6250-084f-4af7-b346-45c4311018f5)
 ![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/db5ea5c4-22e4-498f-9524-e406f315e20a)
 ### Size: 128x128, K: 50
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/d18789fa-dadb-4367-8012-08ff19edb243)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/d35bd0a5-2079-4434-bab2-10bbe09f284d)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/3258b743-47a3-4a2f-96c1-95393a22195a)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/5f798d4b-006d-44cc-bb13-ae4164028a5f)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/9d11a939-aed7-4c07-974c-e068fee98835)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/58ce33b4-5ec7-41a0-b4f6-a8e06f546256)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/c5010f57-755f-4d85-9577-c6c55e3e9659)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/cf839777-02ac-47ca-96da-ec14503408dc)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/75845c5f-6cbf-4ca3-af4e-e0cd7756332e)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/300ffaf8-369d-4a21-93d0-66d73f98e377)
-
-
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/d161aa05-d350-42de-a298-10b2471d8227)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/75c87368-c154-450c-b1f6-77ecbec8abd9)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/b1ce3add-4d09-4e60-a4fe-b01434df8305)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/ff0fd2b9-302b-4a2b-9f1e-c87f62cdf541)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/562926d5-9dd7-4b20-90e2-ba294031330a)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/46dd7d0d-94eb-443b-97a6-9f53f01628b1)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/b068cd09-29d9-4038-baf9-0a389fad9a7f)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/ef104a4a-642b-4873-8ccb-515d3249e3a3)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/fb77e732-10d7-4525-bf10-7fa1cf2705b0)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/326dc91b-9c11-4bbb-9f58-e06737221551)
 
 
 
