@@ -35,7 +35,7 @@ conda activate bigdata_hw1
 # Deliverables:
 ## 1. Dataset/Code
 - See below for Dataset information
-- Link to Repo: https://github.com/ShaanGil1/CS6220-HW1/tree/main
+- Link to Repo: https://github.com/ShaanGil1/CS6220_HW1/
 ### Dataset
 - The dataset used was CalTech101, it is a simple image dataset with 101 categories and is easy to work with
 - Dataset is downloaded through the code in the model.ipynb file, simply run the file and it will download the dataset onto the root of the folder
