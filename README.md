@@ -52,7 +52,7 @@ conda activate bigdata_hw1
 ## 3. Input Analysis		
 ### Table
 A) <br>
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/6d420beb-44bf-4f45-969f-683bf5e49787)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/f7053823-1629-40c8-98c9-e7a32460a3d4)
 <br>
 B) See Appendix for all images <br>
 C) Model Used: squeezenet1_1, model is lightweight and accepts different input sizes which is perfect for this given task.
@@ -83,7 +83,7 @@ D) Training Convergence Condition
 - The termination condition used (number of epochs) was 20 epochs
 ## 4. Output Analysis		
 A) Table																				
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/9865f734-f256-4f09-9c38-053b87de3881)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/491d15f9-9405-4f0e-aa5d-15bb52d8b378)
 <br>
 B) Recorded on Table <br>
 C) I was a little confused on this part as well so I did it as best I could
@@ -94,7 +94,7 @@ C) I was a little confused on this part as well so I did it as best I could
   - Train a new model on this new data, record runtime/accuracy
   - Compare the K and the K + 1 models
 - The findings can be found in the below table:
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/0a6ef87b-b0ab-4123-b0c9-c8596005e173)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/8acbc326-8b66-432e-b444-626974bdd141)
 - Based on the table we can see runtime increases for K to K + 1, since there are more training samples (as expected)
 - Accuracy decreases from K to K + 1, which shows the additional samples are not enough to combat the increase in complexity
 - The highest change in test accuracy came from K = 10 and K = 11 which makes it hard to draw any conclusion since this datapoint in the middle of other values
@@ -121,14 +121,14 @@ E) Observations:
 - When generating K classes I used the classes with the most images to have more training data this would not be needed in better datasets that have better distribution/more data (instead I could just choose random ones)
 # Appendix
 ## Execution/Environment 
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/e5db5486-fbdc-486e-b3e9-e2b2f7d41380)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/e5874c00-b371-44f9-b5c3-91ac449830a4)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/ca38b983-4f8e-442c-b9e7-578758812486)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/354ac79d-b422-4aa8-9752-f3620da31617)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/a7fc6d9d-63a4-4d75-93e3-a9852a09f7b7)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/edb8ba2f-9bdb-45e6-81f4-bd78d7cc3284)
 ## Images
 - Generated using matplotlib, sampled randomly
 ### Size: 64x64, K: 10
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/ab284eed-f1f0-4a23-875a-ddbddff7b29e)
-![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/0e3180f7-1563-46eb-8c9b-6562e6bef092)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/c8f26c6a-695c-40fe-a6e9-c789eb8d4aa5)
+![image](https://github.com/ShaanGil1/CS6220_HW1/assets/71356331/848562cd-7697-4efa-a7a3-d5a1d57f0b00)
 ### Size: 64x64, K: 50
 ![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/22d35281-8c70-4b52-840b-b9130fe8edd0)
 ![image](https://github.com/ShaanGil1/CS6220-HW1/assets/71356331/7173bd5e-aa86-4323-8a5a-e6bb297c0a4a)
